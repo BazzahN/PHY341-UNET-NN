@@ -45,5 +45,6 @@ for i in range(frames):
         third = torch.cat((norm_temp,norm_t),0)
         norm_temp = third
 
+#Normalises phase data and transforms np array into a pytorch tensor
 
 
