@@ -32,7 +32,7 @@ epi_data, frames = loadtiffs(
 phase_data, frames = loadtiffs(
 '/Users/harry/Documents/WORK/University/Physics/Third Year/PHY341-project/Training Images/phase.tif')
 
-norm = []
+
 
 for i in range(frames):
     
